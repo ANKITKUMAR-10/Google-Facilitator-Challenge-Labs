@@ -1,0 +1,4 @@
+COPY & PASTE ⬇️
+
+kubectl apply -f tf-serving/configmap-resnet101.yaml
+kubectl apply -f tf-serving/deployment-resnet101.yaml
